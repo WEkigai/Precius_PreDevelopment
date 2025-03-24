@@ -1,6 +1,6 @@
 # Precius : Pre-development
-This repository is aimed for archiving code for the pre-development phase of Precius.
-Please follow the main development on the main project.
+This repository is aimed for **archiving** the pre-development phase of Precius.
+Please follow the current development on the [main project](https://github.com/WEkigai/Precius).
 
 # Arduino proof of concept
 The first proof of concept was built using Arduino Uno board and other off the shelf components sometime around 2021. The first code was developed by Gaurav Sharma and funded by WEkigai. On the mechanical side a crude setup of a heater coil and a probe sensor was used.

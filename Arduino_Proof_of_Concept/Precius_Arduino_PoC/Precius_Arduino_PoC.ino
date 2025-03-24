@@ -27,11 +27,6 @@ Power changes of the heater are achieverd by turning a relay on and off over a d
 // to debug program
 #define DEBUG 0
 
-// Modulo definitions (integer remainder)
-#define TASK_50HZ 2
-#define TASK_10HZ 10
-#define TASK_1HZ 100
-
 #include <Encoder.h>
 #include <max6675.h>
 #include <PID_v1.h>

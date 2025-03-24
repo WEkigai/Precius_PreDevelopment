@@ -21,6 +21,7 @@ The other encoder controls the power level of the heater.
 Input temperature is read with a thermocouple.
 The heater is controlled using a PID controller. 
 Power changes of the heater are achieverd by turning a relay on and off over a duty cycle.
+A monochrome 128x64 pixel LCD display is used for UI
 
 --------------------------------------*/
 

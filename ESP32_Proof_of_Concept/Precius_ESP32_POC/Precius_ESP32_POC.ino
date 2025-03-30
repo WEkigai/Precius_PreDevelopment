@@ -164,7 +164,7 @@ display_refresh_StartTime = millis();
 
 
 //setup pid
-myPID.begin(&Tnow, &PID_output, &Tset, 200, 1.0, 10.0);
+myPID.begin(&Tnow, &PID_output, &Tset, 100, 1.0, 10.0);
 
 myPID.setOutputLimits(0, duty_windowSize*power_percent*0.01);
 myPID.setWindUpLimits(0,1000);
